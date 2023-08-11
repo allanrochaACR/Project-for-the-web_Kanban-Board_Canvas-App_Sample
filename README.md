@@ -8,4 +8,4 @@ It is very simple to create a kanban board for Project for the web projects.
 03) Import the "GithubCanvasProjectfortheweb_1_0_0_1.zip - https://github.com/allanrochaACR/Project-for-the-web_Kanban-Board_Canvas-App_Sample/blob/main/GithubCanvasProjectfortheweb_1_0_0_1.zip
 04) Enjoy!
 
-![image](https://github.com/allanrochaACR/Project-for-the-web_Kanban-Board_Canvas-App_Sample/assets/37085463/a6e7926f-6184-4259-84dc-51bc73725f65)
+![image](https://github.com/allanrochaACR/Project-for-the-web_Kanban-Board_Canvas-App_Sample/blob/main/2023-08-11_21-43-52.png?raw=true)
