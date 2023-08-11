@@ -8,4 +8,8 @@ It is very simple to create a kanban board for Project for the web projects.
 03) Import the "GithubCanvasProjectfortheweb_1_0_0_1.zip - https://github.com/allanrochaACR/Project-for-the-web_Kanban-Board_Canvas-App_Sample/blob/main/GithubCanvasProjectfortheweb_1_0_0_1.zip
 04) Enjoy!
 
+Inside the PowerApps Canvas Studio:
 ![image](https://github.com/allanrochaACR/Project-for-the-web_Kanban-Board_Canvas-App_Sample/blob/main/2023-08-11_21-43-52.png?raw=true)
+
+Deployed inside the Project for the web App:
+![image](https://github.com/allanrochaACR/Project-for-the-web_Kanban-Board_Canvas-App_Sample/blob/main/2023-08-11_22-16-17.png?raw=true)
